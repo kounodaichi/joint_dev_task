@@ -205,6 +205,7 @@ OK
 
 data2 = { name: "yamada", hobby: "baseball", role: "normal" }
 # 実行結果
+
 NG
 ```
 
